@@ -5,6 +5,7 @@
 > **Purpose**: Taskmaster is a Application that allows you to organize team or individual tasks by date and progress status. 
 <br />
 
+
 <br />
 
 ![Homepage](https://user-images.githubusercontent.com/52016382/119556005-1d3f5080-bd64-11eb-9072-9ae756f6d24b.png)
